@@ -1,0 +1,17 @@
+public class Repitition {
+
+    public static void main (String[] args) {
+
+        System.out.println("Hello World" + " och slicka fitta" + " och jag måste skita");
+
+        int myfirstnumber = 50 / 4;
+        int mySecondNumber = 40 / 10;
+        int myLastOne = mySecondNumber + myfirstnumber;
+        System.out.println(myfirstnumber + " är ett nummer som jag gillar");
+        System.out.println(myfirstnumber + " är ett nummer som jag gillar");
+        System.out.println(myfirstnumber - mySecondNumber);
+        System.out.println(myLastOne);
+
+
+    }
+}
